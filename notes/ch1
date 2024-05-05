@@ -1,0 +1,11 @@
+System language
+"Spirit of C"
+    Trust the programmer
+    Don't prevent the programmer from doing what needs to be done
+    Keep the language small and simple
+    Provide only one way to do an operation
+    Make it FAST
+C standard defines the language and final authority of language behavior
+Can't understand C behavior just by writing test code; behvaior varies between
+    a lot of things
+
