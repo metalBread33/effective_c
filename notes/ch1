@@ -9,3 +9,6 @@ C standard defines the language and final authority of language behavior
 Can't understand C behavior just by writing test code; behvaior varies between
     a lot of things
 
+Need to compile programs written
+Programs end in .c
+
